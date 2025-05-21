@@ -1,4 +1,4 @@
-# Awesome Brainstorming & Analysis Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Brainstorming & Analysis Mind Maps](https://mindmapai.app/mind-maps/brainstorming-and-analysis) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 Supercharge brainstorming and analysis with project management and mind maps AI to capture ideas, structure insights, and drive strategic action. Mind maps AI enables teams to visualize connections, evaluate options, and transform creative thinking into clear, data-driven decisions.
 
 - [Benefits of Mind Mapping](https://mindmapai.app/mind-map/benefits-of-mind-mapping-4826b95b)
